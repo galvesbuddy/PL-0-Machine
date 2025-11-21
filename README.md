@@ -11,7 +11,6 @@ Includes a:
 <img width="622" height="674" alt="image" src="https://github.com/user-attachments/assets/0e41e8b7-1f3b-451f-9c55-af00ced5a091" />
 <img width="623" height="693" alt="image" src="https://github.com/user-attachments/assets/fc63eb39-9ba0-48ca-899b-79d0d0224727" />
 
-
 ## Scanner  
 ### Imporant to Note
 Numbers must be no longer than 5 digits, identifiers no longer than 11 characters, and all valid tokens are listed within the Token enum in either the scanner or parser file.  
