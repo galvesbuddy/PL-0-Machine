@@ -5,4 +5,5 @@ Includes a:
 - VM
 
 # Grammar to be followed
-<img width="702" height="942" alt="image" src="https://github.com/user-attachments/assets/4cdfed4d-571b-43e3-aae3-e05633c7cb92" />
+<img width="700" height="918" alt="image" src="https://github.com/user-attachments/assets/ebe906d4-469a-42c9-9bf7-be1ee737f7c5" />
+
