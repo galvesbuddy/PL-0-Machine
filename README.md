@@ -1,2 +1,6 @@
 # PL-0-Machine
-A tiny VM to execute P code
+Includes a:  
+- Scanner
+- Parser that also generated assembly
+- VM
+  
