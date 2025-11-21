@@ -1,7 +1,7 @@
 # PL-0-Machine
 Includes a:  
 - Scanner
-- Parser that also generated assembly
+- Parser that also generates assembly
 - VM
 
 # Grammar to be followed
