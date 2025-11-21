@@ -8,4 +8,4 @@ Includes a:
 <img width="700" height="918" alt="image" src="https://github.com/user-attachments/assets/ebe906d4-469a-42c9-9bf7-be1ee737f7c5" />  
 
 # Scanner  
-Numbers
+Numbers must be no longer than 5 digits and identifiers no longer than 11 characters.
