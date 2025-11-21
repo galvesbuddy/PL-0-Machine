@@ -20,7 +20,7 @@ Takes an input file (there should be an example, something like "scannersample.t
 
 ## Parser and Code Generator
 ### Important to Note
-As soon as an error is detected it will stop immediately and provide the error in both the terminal and on its output file ("elf.txt"). Errors can either be a 1 (skipsym) token from the scanner or more of a parser error like did not follow the grammar rules.
+As soon as an error is detected it will stop immediately and provide the error in both the terminal and on its output file ("elf.txt"). Errors can either be a 1 (skipsym) token from the scanner or more of a parser error. For example, did not follow the grammar rules.
 
 ### How it Works
-Takes a hardcoded input file generated from the scanner, "token_list.txt" and goes through each token going through if statements to see if it matches the token type to go down that line. When it is done with its task and it matches an 
+Takes a hardcoded input file generated from the scanner, "token_list.txt" and goes through each token checking if statements to see if it matches the token type to go down that line. When it is done with its task and it finishes an operation it saves that operation and related info (L and M). After all parsing is done, the saved operations and related info is then printed to the output file "elf.txt" with each line holding an instruction, which take 3 spaces (Opcode, L, M).
